@@ -381,7 +381,342 @@ return false;
 }
 }
 
+// Incident Handling
+
+function CheckPassword_ih2(inputtxt) 
+{ 
+
+if(inputtxt.value=="DRILL2020{05:45:49}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_ih4(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{"A good programmer is someone who always looks both ways before crossing a one-way street"}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_ih5(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{CVE-2020-1938}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_ih6(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{CVE-2018-13379}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+// Network
 
 
+function CheckPassword_n1(inputtxt) 
+{ 
 
+if(inputtxt.value=="CYBERDRILL{9}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n2(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{192.168.195.162}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n3(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{DESKTOP-0T0223K}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n4(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{CIRTVPN.exe}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n5(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{192.168.195.147:8000/CIRTVPN.exe}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n6(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{192.168.195.162}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n7(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{2.3.4}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n8(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{HACKPACK_RETURN}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n9(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{http://192.168.195.146/phpmyadmin/index.php}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n10(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{Hydra}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_n11(inputtxt) 
+{ 
+
+if(inputtxt.value=="flag{safety-curityand-security}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+// Reverse Engineering
+
+function CheckPassword_re1(inputtxt) 
+{ 
+
+if(inputtxt.value=="DRILL2020{?}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_re2(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{BGDeGOVCIRT}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_re4(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{e8e1ff4f81f87100b488f2905d510cae}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_re5(inputtxt) 
+{ 
+
+if(inputtxt.value=="REV{f3c6078bda6bb49bd21dbffde7c1b734}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+// Web Challenge
+
+function CheckPassword_w2(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{<img src=x onerror=eval("alert('CYBERDRILL2020')")>}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_w3(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{<img src=x onerror=prompt=alert('CYBERDRILL2020')>}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
+
+function CheckPassword_w4(inputtxt) 
+{ 
+
+if(inputtxt.value=="CYBERDRILL{<img src=x onerror=alert('CYBERDRILL2020')>}") 
+{ 
+alert('Correct ! \n Thank You !')
+return true;
+}
+else
+{ 
+alert('Wrong ! \n Try Again !')
+return false;
+}
+}
 
