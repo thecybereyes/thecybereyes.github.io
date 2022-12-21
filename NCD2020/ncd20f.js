@@ -401,7 +401,7 @@ return false;
 function CheckPassword_ih4(inputtxt) 
 { 
 
-if(inputtxt.value=="CYBERDRILL{"A good programmer is someone who always looks both ways before crossing a one-way street"}") 
+if(inputtxt.value=="CYBERDRILL{A good programmer is someone who always looks both ways before crossing a one-way street}") 
 { 
 alert('Correct ! \n Thank You !')
 return true;
@@ -444,7 +444,6 @@ return false;
 }
 
 // Network
-
 
 function CheckPassword_n1(inputtxt) 
 { 
@@ -678,7 +677,7 @@ return false;
 function CheckPassword_w2(inputtxt) 
 { 
 
-if(inputtxt.value=="CYBERDRILL{<img src=x onerror=eval("alert('CYBERDRILL2020')")>}") 
+if(inputtxt.value=="CYBERDRILL{<img src=x onerror=eval(alert('CYBERDRILL2020'))>}") 
 { 
 alert('Correct ! \n Thank You !')
 return true;
