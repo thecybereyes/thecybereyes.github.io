@@ -1,7 +1,7 @@
+
     var questions = [
 
-      
-      {
+{
 	question: "Which department in a company is NOT typically involved in a Disaster Recovery Plan (DRP)?",
 	options: ["A. IT", "B. Executive", "C. Financial", "D. Public Relations"],
 	answer: "C"
@@ -102,10 +102,10 @@
     options: ["A. Keylogger", "B. Trojan", "C. Logic Bomb", "D. Backdoor"],
     answer: "A"
 },
-      
+	    
     ];
 
-var totalMarks = 0;
+    var totalMarks = 0;
 
     function createQuestionElement(question, options, questionNumber) {
         var questionElement = document.createElement("div");
@@ -173,3 +173,4 @@ var totalMarks = 0;
     window.onload = function () {
         populateQuestions();
     };
+
