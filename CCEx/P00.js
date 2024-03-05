@@ -105,7 +105,7 @@
       
     ];
 
-    var totalMarks = 0;
+var totalMarks = 0;
 
     function createQuestionElement(question, options, questionNumber) {
         var questionElement = document.createElement("div");
@@ -158,6 +158,16 @@
             }
         });
         alert("Total Marks Obtained: " + totalMarks);
+        document.getElementById("show-answers-btn").style.display = "inline"; // Show the "Show Answers" button
+    }
+
+    function showAnswers() {
+        var answerList = "";
+        questions.forEach(function (questionData, index) {
+            answerList += (index + 1) + "-" + questionData.answer + ", ";
+        });
+        answerList = answerList.slice(0, -2); // Remove trailing comma and space
+        alert("Correct Answers:\n" + answerList);
     }
 
     window.onload = function () {
