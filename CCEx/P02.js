@@ -2,53 +2,53 @@
 
 {
 question: "Which type of access controls primarily involve tangible methods or mechanisms?",
-options: ["a) Physical access controls", "b) Logical access controls", "c) Biometric access controls", "d) Surveillance access controls"],
-answer: "a"
+options: ["A) Physical access controls", "B) Logical access controls", "C) Biometric access controls", "D) Surveillance access controls"],
+answer: "A"
 },
 {
 question: "What are logical access controls primarily designed to limit access to?",
-options: ["a) Physical assets", "b) Tangible areas", "c) Systems and electronic resources", "d) Security policies"],
-answer: "c"
+options: ["A) Physical assets", "B) Tangible areas", "C) Systems and electronic resources", "D) Security policies"],
+answer: "C"
 },
 {
 question: "Which of the following is an example of a logical access control method?",
-options: ["a) Security guards", "b) Key cards", "c) Fences", "d) Surveillance cameras"],
-answer: "b"
+options: ["A) Security guards", "B) Key cards", "C) Fences", "D) Surveillance cameras"],
+answer: "B"
 },
 {
 question: "What type of mechanisms do logical access controls utilize?",
-options: ["a) Tangible", "b) Physical", "c) Electronic", "d) Mechanical"],
-answer: "c"
+options: ["A) Tangible", "B) Physical", "C) Electronic", "D) Mechanical"],
+answer: "C"
 },
 {
 question: "What role do passwords play in logical access control?",
-options: ["a) Identifying users based on physical characteristics", "b) Limiting access to electronic resources", "c) Physically restricting entry to a building", "d) Monitoring network traffic"],
-answer: "b"
+options: ["A) Identifying users based on physical characteristics", "B) Limiting access to electronic resources", "C) Physically restricting entry to a building", "D) Monitoring network traffic"],
+answer: "B"
 },
 {
 question: "How do biometrics contribute to logical access control?",
-options: ["a) By providing physical barriers", "b) By electronically limiting access to systems", "c) By controlling the flow of people in a building", "d) By recording video surveillance"],
-answer: "b"
+options: ["A) By providing physical barriers", "B) By electronically limiting access to systems", "C) By controlling the flow of people in a building", "D) By recording video surveillance"],
+answer: "B"
 },
 {
 question: "What do badge/token readers connected to a system typically control?",
-options: ["a) Physical access to a building", "b) Electronic access to data and resources", "c) Network bandwidth usage", "d) Inventory management"],
-answer: "b"
+options: ["A) Physical access to a building", "B) Electronic access to data and resources", "C) Network bandwidth usage", "D) Inventory management"],
+answer: "B"
 },
 {
 question: "Which type of access controls limit someone from accessing systems?",
-options: ["a) Physical access controls", "b) Logical access controls", "c) Biometric access controls", "d) Surveillance access controls"],
-answer: "b"
+options: ["A) Physical access controls", "B) Logical access controls", "C) Biometric access controls", "D) Surveillance access controls"],
+answer: "B"
 },
 {
 question: "In what ways do logical access controls contribute to overall security?",
-options: ["a) By providing physical barriers", "b) By granting access to all users indiscriminately", "c) By electronically limiting access to authorized individuals", "d) By creating vulnerabilities in the system"],
-answer: "c"
+options: ["A) By providing physical barriers", "B) By granting access to all users indiscriminately", "C) By electronically limiting access to authorized individuals", "D) By creating vulnerabilities in the system"],
+answer: "C"
 },
 {
 question: "What is the primary purpose of logical access controls?",
-options: ["a) To regulate physical access", "b) To control surveillance systems", "c) To limit electronic access to systems and resources", "d) To manage inventory levels"],
-answer: "c"
+options: ["A) To regulate physical access", "B) To control surveillance systems", "C) To limit electronic access to systems and resources", "D) To manage inventory levels"],
+answer: "C"
 },
       
     ];
