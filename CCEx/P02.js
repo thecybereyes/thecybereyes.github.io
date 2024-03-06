@@ -50,6 +50,56 @@ question: "What is the primary purpose of logical access controls?",
 options: ["A) To regulate physical access", "B) To control surveillance systems", "C) To limit electronic access to systems and resources", "D) To manage inventory levels"],
 answer: "C"
 },
+{
+question: "What does a Mandatory Access Control (MAC) policy enforce across all subjects and objects within an information system?",
+options: ["A) Variable access rules", "B) Uniformly enforced security policies", "C) Subjective access permissions", "D) Dynamic access controls"],
+answer: "B"
+},
+{
+question: "Who is typically responsible for modifying security rules in a system governed by Mandatory Access Control?",
+options: ["A) All users with access to the system", "B) Trusted security administrators", "C) Object owners", "D) System users with appropriate privileges"],
+answer: "B"
+},
+{
+question: "Which of the following actions is constrained by a Mandatory Access Control policy?",
+options: ["A) Passing information to unauthorized subjects or objects", "B) Granting privileges to other subjects", "C) Modifying system components at will", "D) Choosing arbitrary security attributes for objects"],
+answer: "A"
+},
+{
+question: "What distinguishes Mandatory Access Control (MAC) from Discretionary Access Control (DAC)?",
+options: ["A) The complexity of access rules", "B) The involvement of security administrators", "C) The discretion of object owners", "D) The flexibility of access permissions"],
+answer: "B"
+},
+{
+question: "In a system governed by Mandatory Access Control, who assigns access rights or permissions?",
+options: ["A) Object owners", "B) System users", "C) Trusted security administrators", "D) Integrated identity management systems"],
+answer: "C"
+},
+{
+question: "What is one of the main restrictions imposed by Mandatory Access Control?",
+options: ["A) Limiting system resources", "B) Restricting network access", "C) Confining subjects from modifying security attributes", "D) Allowing unrestricted information sharing"],
+answer: "C"
+},
+{
+question: "Which type of access control gives priority to security administrators' decisions over object owners' discretion?",
+options: ["A) Discretionary Access Control", "B) Role-Based Access Control", "C) Mandatory Access Control", "D) Attribute-Based Access Control"],
+answer: "C"
+},
+{
+question: "What is a key feature of Mandatory Access Control policies?",
+options: ["A) Subjective assignment of access rights", "B) Dynamic modification of security rules", "C) Uniform enforcement of security policies", "D) Flexible control over access permissions"],
+answer: "C"
+},
+{
+question: "Which aspect of access control is mandatory in Mandatory Access Control policies?",
+options: ["A) Subjective decision-making", "B) Object owners' discretion", "C) Security administrators' authority", "D) Integrated identity management"],
+answer: "C"
+},
+{
+question: "How do Mandatory Access Control policies contribute to overall system security?",
+options: ["A) By providing flexibility in access permissions", "B) By allowing unrestricted modification of security rules", "C) By uniformly enforcing security policies across all subjects and objects", "D) By giving object owners full control over access rights"],
+answer: "C"
+},
       
     ];
 
