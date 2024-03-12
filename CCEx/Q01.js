@@ -15,7 +15,7 @@
 },
 
 {
-	question: "What is meant by non-repudiation?  (D1, L1.1.1)",
+	question: "What is meant by non-repudiation?",
 	options: [
 		"A) If a user does something, they can't later claim that they didn't do it.",
 		"B) Controls to protect the organization's reputation from harm due to inappropriate social media postings by employees, even if on their private accounts and personal time.   ",
@@ -26,7 +26,7 @@
 },
 
 {
-	question: "Which of the following is NOT one of the four typical ways of managing risk?  (D1, L1.2.1)",
+	question: "Which of the following is NOT one of the four typical ways of managing risk?",
 	options: [
 		"A) Avoid",
 		"B) Accept",
@@ -37,7 +37,7 @@
 },
 
 {
-	question: "Siobhan is deciding whether to make a purchase online; the vendor wants Siobhan to create a new user account, and is requesting Siobhan's full name, home address, credit card number, phone number, email address, the ability to send marketing messages to Siobhan, and permission to share this data with other vendors. Siobhan decides that the item for sale is not worth the value of Siobhan's personal information, and decides to not make the purchase.  What kind of risk management approach did Siobhan make? (D1, L1.2.2)",
+	question: "Siobhan is deciding whether to make a purchase online; the vendor wants Siobhan to create a new user account, and is requesting Siobhan's full name, home address, credit card number, phone number, email address, the ability to send marketing messages to Siobhan, and permission to share this data with other vendors. Siobhan decides that the item for sale is not worth the value of Siobhan's personal information, and decides to not make the purchase.  What kind of risk management approach did Siobhan make?",
 	options: [
 		"A) Avoidance",
 		"B) Acceptance",
@@ -48,7 +48,7 @@
 },
 
 {
-	question: "Guillermo is the system administrator for a midsized retail organization. Guillermo has been tasked with writing a document that describes, step-by-step, how to securely install the operating system on a new laptop. This document is an example of a ________. (D1, L1.4.1)",
+	question: "Guillermo is the system administrator for a midsized retail organization. Guillermo has been tasked with writing a document that describes, step-by-step, how to securely install the operating system on a new laptop. This document is an example of a ________.",
 	options: [
 		"A) Policy",
 		"B) Standard",
@@ -59,7 +59,7 @@
 },
 
 {
-	question: "Lankesh is the security administrator for a small food-distribution company. A new law is published by the country in which Lankesh's company operates; the law conflicts with the company's policies. Which governance element should Lankesh's company follow? (D1, L1.4.2)",
+	question: "Lankesh is the security administrator for a small food-distribution company. A new law is published by the country in which Lankesh's company operates; the law conflicts with the company's policies. Which governance element should Lankesh's company follow?",
 	options: [
 		"A) The law",
 		"B) The policy",
@@ -70,7 +70,7 @@
 },
 
 {
-	question: "Kristal is the security administrator for a large online service provider. Kristal learns that the company is harvesting personal data of its customers and sharing the data with local governments where the company operates, without the knowledge of the users, to allow the governments to persecute users on the basis of their political and philosophical beliefs. The published user agreement states that the company will not share personal user data with any entities without the users' explicit permission. According to the ISC2 Code of Ethics, to whom does Kristal ultimately owe a duty in this situation? (D1, L1.5.1)",
+	question: "Kristal is the security administrator for a large online service provider. Kristal learns that the company is harvesting personal data of its customers and sharing the data with local governments where the company operates, without the knowledge of the users, to allow the governments to persecute users on the basis of their political and philosophical beliefs. The published user agreement states that the company will not share personal user data with any entities without the users' explicit permission. According to the ISC2 Code of Ethics, to whom does Kristal ultimately owe a duty in this situation?",
 	options: [
 		"A) The governments of the countries where the company operates",
 		"B) The company Kristal works for",
@@ -81,7 +81,7 @@
 },
 
 {
-	question: "While taking the certification exam for this certification, you notice another candidate for the certification cheating. What should you do? (D1, L1.5.1)",
+	question: "While taking the certification exam for this certification, you notice another candidate for the certification cheating. What should you do?",
 	options: [
 		"A) Nothing—each person is responsible for their own actions.",
 		"B) Yell at the other candidate for violating test security.",
@@ -92,7 +92,7 @@
 },
 
 {
-	question: "The concept of 'secrecy' is most related to which foundational aspect of security? (D1, L1.1.1)",
+	question: "The concept of 'secrecy' is most related to which foundational aspect of security?",
 	options: [
 		"A) Confidentiality",
 		"B) Integrity",
