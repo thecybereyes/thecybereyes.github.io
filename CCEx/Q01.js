@@ -18,7 +18,7 @@
 	question: "What is meant by non-repudiation?",
 	options: [
 		"A) If a user does something, they can't later claim that they didn't do it.",
-		"B) Controls to protect the organization's reputation from harm due to inappropriate social media postings by employees, even if on their private accounts and personal time.   ",
+		"B) Controls to protect the organization's reputation from harm due to inappropriate social media postings by employees, even if on their private accounts and personal time.",
 		"C) It is part of the rules set by administrative controls. ",
 		"D) It is a security feature that prevents session replay attacks. "
 	],
