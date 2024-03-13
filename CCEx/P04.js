@@ -81,26 +81,6 @@
 	answer: "B"
 },
 {
-	question: "What is the key difference between MAC and DAC?",
-	options: [
-		"A. DAC enforces stronger password policies compared to MAC.",
-		"B. MAC assigns access rights based on user roles, while DAC uses file ownership.",
-		"C. DAC requires two-factor authentication for all login attempts, unlike MAC.",
-		"D. MAC offers a more user-friendly access control experience than DAC."
-	],
-	answer: "B"
-},
-{
-	question: "In RBAC, privilege creep refers to:",
-	options: [
-		"A. Implementing temporary access permissions for specific tasks.",
-		"B. Implementing multi-factor authentication for increased security.",
-		"C. The gradual accumulation of unnecessary access rights by users.",
-		"D. The process of granting administrative privileges to all employees."
-	],
-	answer: "C"
-},
-{
 	question: "MFA (Multi-Factor Authentication) is an example of:",
 	options: [
 		"A. Physical Security Control",
@@ -109,56 +89,6 @@
 		"D. Discretionary Access Control (DAC)"
 	],
 	answer: "B"
-},
-{
-	question: "Which of the following best describes the function of a firewall?",
-	options: [
-		"A. Enforces access control policies within a system.",
-		"B. Monitors user activity and detects suspicious behavior.",
-		"C. Provides a secure physical barrier to restrict unauthorized physical access.",
-		"D. Grants temporary elevated access rights to users for specific tasks."
-	],
-	answer: "C"
-},
-{
-	question: "What is the purpose of a mantra trap in physical security?",
-	options: [
-		"A. It allows for single-person entry with access control verification.",
-		"B. It requires two individuals to enter an area simultaneously.",
-		"C. It utilizes biometric scanners for user identification.",
-		"D. It provides a secure storage location for sensitive documents."
-	],
-	answer: "B"
-},
-{
-	question: "Which of the following statements is true about access control?",
-	options: [
-		"A. It solely focuses on restricting access to information systems and data.",
-		"B. It grants appropriate access to authorized personnel and denies access to unauthorized entities.",
-		"C. It only involves physical security measures like locks and cameras.",
-		"D. All users should have unrestricted access to all resources."
-	],
-	answer: "B"
-},
-{
-	question: "What is the primary objective of defense in depth?",
-	options: [
-		"A. To completely eliminate the possibility of a cyberattack.",
-		"B. To implement a single, robust security measure.",
-		"C. To create multiple layers of security to impede attackers.",
-		"D. To focus solely on preventative security measures."
-	],
-	answer: "C"
-},
-{
-	question: "The principle of Least Privilege dictates that:",
-	options: [
-		"A. Users should be granted all available permissions.",
-		"B. Users require complex passwords even for basic tasks.",
-		"C. Users should have the minimum access necessary to perform their jobs.",
-		"D. User access should not be reviewed or monitored."
-	],
-	answer: "C"
 },
 {
 	question: "Which statement best describes Privileged Access Management (PAM)?",
@@ -269,109 +199,7 @@
 		"D. Restricting access to specific users."
 	],
 	answer: "B"
-},
-    {
-        question: "Which of the following statements is true about access control?",
-        options: [
-            "A. It solely focuses on restricting access to information systems and data.",
-            "B. It grants appropriate access to authorized personnel and denies access to unauthorized entities.",
-            "C. It only requires physical security measures like fences and cameras.",
-            "D. Its primary function is to monitor user activity within the system."
-        ],
-        answer: "B"
-    },
-    {
-        question: "What is the main objective of the 'Defense in Depth' strategy?",
-        options: [
-            "A. To completely eliminate the possibility of cyberattacks.",
-            "B. To implement a single robust security measure across the organization.",
-            "C. To create multiple layers of security controls to mitigate various threats.",
-            "D. To assign all users privileged access for efficient system administration."
-        ],
-        answer: "C"
-    },
-    {
-        question: "The principle of Least Privilege emphasizes:",
-        options: [
-            "A. Granting users extensive access rights for administrative tasks.",
-            "B. Providing users with the minimum access necessary to perform their duties.",
-            "C. Encouraging users to share their login credentials with colleagues.",
-            "D. Implementing complex password policies to prevent unauthorized access."
-        ],
-        answer: "B"
-    },
-    {
-        question: "What is the primary benefit of Just-in-Time (JIT) privileged access management?",
-        options: [
-            "A. It simplifies user provisioning by assigning permanent administrative rights.",
-            "B. It reduces the attack surface by granting elevated access only when required.",
-            "C. It eliminates the need for password resets, improving user convenience.",
-            "D. It allows users to share privileged accounts for collaborative tasks."
-        ],
-        answer: "B"
-    },
-    {
-        question: "Which principle ensures that no single individual can control an entire high-risk transaction?",
-        options: [
-            "A. Principle of Least Privilege",
-            "B. Two-Person Rule",
-            "C. Mandatory Access Control (MAC)",
-            "D. Role-Based Access Control (RBAC)"
-        ],
-        answer: "B"
-    },
-    {
-        question: "Biometric access control systems primarily rely on:",
-        options: [
-            "A. User-defined passwords and PINs.",
-            "B. Physical characteristics or behavioral traits of individuals.",
-            "C. Network security protocols like firewalls and intrusion detection systems.",
-            "D. Implementing complex access control lists (ACLs) on network resources."
-        ],
-        answer: "B"
-    },
-    {
-        question: "What type of access control utilizes magnetic stripe cards or key fobs for user identification?",
-        options: [
-            "A. Logical Access Control",
-            "B. Physical Security Controls",
-            "C. Biometric Access Control",
-            "D. Proximity Access Control"
-        ],
-        answer: "D"
-    },
-    {
-        question: "Which statement accurately describes Discretionary Access Control (DAC)?",
-        options: [
-            "A. Security administrators have complete control over access permissions.",
-            "B. File owners hold the discretion to determine user access rights.",
-            "C. User privileges are solely based on their assigned roles within the organization.",
-            "D. Access control decisions are automated based on pre-defined security policies."
-        ],
-        answer: "B"
-    },
-    {
-        question: "What is the key difference between MAC and DAC?",
-        options: [
-            "A. DAC enforces stronger password policies compared to MAC.",
-            "B. MAC assigns access rights based on user roles, while DAC uses file ownership.",
-            "C. DAC requires two-factor authentication for all login attempts, unlike MAC.",
-            "D. MAC offers a more user-friendly access control experience than DAC."
-        ],
-        answer: "B"
-    },
-    {
-        question: "In RBAC, privilege creep refers to:",
-        options: [
-            "A. Implementing temporary access permissions for specific tasks.",
-            "B. Implementing multi-factor authentication for increased security.",
-            "C. The gradual accumulation of unnecessary access rights by users.",
-            "D. The process of granting administrative privileges to all employees."
-        ],
-        answer: "C"
-    },
-
-      
+},  
     ];
 
     var totalMarks = 0;
