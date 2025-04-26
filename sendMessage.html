@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Send Telegram Message</title>
+    <script>
+        function sendMessage() {
+            fetch("https://api.telegram.org/bot7744146719:AAHqx_ng-Wx0-jL2-criRHiXQrMqU1X5My8/sendMessage?chat_id=7805834958&text=MikroTik%20is%20online!")
+            .then(response => response.json())
+            .then(data => console.log("Message sent!", data))
+            .catch(error => console.error("Error sending message:", error));
+        }
+    </script>
+</head>
+<body>
+    <button onclick="sendMessage()">Send Telegram Message</button>
+</body>
+</html>
